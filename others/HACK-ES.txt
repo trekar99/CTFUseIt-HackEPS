@@ -1,0 +1,16 @@
+    "repositories": [
+        {
+            "repositoryArn": "arn:aws:ecr:us-west-2:590184058473:repository/hackeps2024",
+            "registryId": "590184058473",
+            "repositoryName": "hackeps2024",
+            "repositoryUri": "590184058473.dkr.ecr.us-west-2.amazonaws.com/hackeps2024",
+            "createdAt": "2024-10-16T09:22:18.732000+02:00",
+            "imageTagMutability": "MUTABLE",
+            "imageScanningConfiguration": {
+                "scanOnPush": false
+            },
+            "encryptionConfiguration": {
+                "encryptionType": "AES256"
+            }
+        }
+    ]
